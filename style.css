@@ -1,0 +1,49 @@
+<style>
+ p { 
+	background-color: #f0f0f0; 
+	color: #333; 
+	padding: 5px; 
+} 
+
+ em { 
+	background-color: #ffc; 
+} 
+
+h1 {
+	color: #53780F;
+}
+
+ h2 + h3 { 
+	color: #78190F; 
+} 
+
+ p ~ ul { 
+border: 2px solid #008000; 
+padding: 10px; 
+}
+
+p { 
+	background-color: #f0f0f0; 
+	color: #333; 
+	padding: 5px; 
+} 
+
+
+em { 
+	background-color: #ffc; 
+} 
+
+h1 {
+	color: A7371F;
+}
+
+h2 + h3 { 
+	color: #c00; 
+} 
+
+
+p ~ ul { 
+	border: 2px solid #008000; 
+	padding: 10px; 
+}
+</style>
